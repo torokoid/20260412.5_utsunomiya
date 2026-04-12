@@ -178,257 +178,7 @@ p.note { display: none; }
 
 
 <h2><span class="yellow">以下試合中の選手映像<br>チアリーダー達が映っているところがハーフタイム</span></h2>
-<a href="20260412_050.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_050.webp" type="image/webp">
-    <img src="20260412_050.webp" alt="イベント写真_050" class="responsive-media" loading="lazy">
-  </picture>
-</a>
 
-<a href="20260412_051.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_051.webp" type="image/webp">
-    <img src="20260412_051.webp" alt="イベント写真_051" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_052.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_052.webp" type="image/webp">
-    <img src="20260412_052.webp" alt="イベント写真_052" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_053.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_053.webp" type="image/webp">
-    <img src="20260412_053.webp" alt="イベント写真_053" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_054.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_054.webp" type="image/webp">
-    <img src="20260412_054.webp" alt="イベント写真_054" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_055.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_055.webp" type="image/webp">
-    <img src="20260412_055.webp" alt="イベント写真_055" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_056.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_056.webp" type="image/webp">
-    <img src="20260412_056.webp" alt="イベント写真_056" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_057.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_057.webp" type="image/webp">
-    <img src="20260412_057.webp" alt="イベント写真_057" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_058.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_058.webp" type="image/webp">
-    <img src="20260412_058.webp" alt="イベント写真_058" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_059.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_059.webp" type="image/webp">
-    <img src="20260412_059.webp" alt="イベント写真_059" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_060.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_060.webp" type="image/webp">
-    <img src="20260412_060.webp" alt="イベント写真_060" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_061.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_061.webp" type="image/webp">
-    <img src="20260412_061.webp" alt="イベント写真_061" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_062.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_062.webp" type="image/webp">
-    <img src="20260412_062.webp" alt="イベント写真_062" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_063.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_063.webp" type="image/webp">
-    <img src="20260412_063.webp" alt="イベント写真_063" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_064.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_064.webp" type="image/webp">
-    <img src="20260412_064.webp" alt="イベント写真_064" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_065.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_065.webp" type="image/webp">
-    <img src="20260412_065.webp" alt="イベント写真_065" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_066.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_066.webp" type="image/webp">
-    <img src="20260412_066.webp" alt="イベント写真_066" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_067.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_067.webp" type="image/webp">
-    <img src="20260412_067.webp" alt="イベント写真_067" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_068.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_068.webp" type="image/webp">
-    <img src="20260412_068.webp" alt="イベント写真_068" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_069.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_069.webp" type="image/webp">
-    <img src="20260412_069.webp" alt="イベント写真_069" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_070.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_070.webp" type="image/webp">
-    <img src="20260412_070.webp" alt="イベント写真_070" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_071.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_071.webp" type="image/webp">
-    <img src="20260412_071.webp" alt="イベント写真_071" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_072.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_072.webp" type="image/webp">
-    <img src="20260412_072.webp" alt="イベント写真_072" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_073.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_073.webp" type="image/webp">
-    <img src="20260412_073.webp" alt="イベント写真_073" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_074.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_074.webp" type="image/webp">
-    <img src="20260412_074.webp" alt="イベント写真_074" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_075.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_075.webp" type="image/webp">
-    <img src="20260412_075.webp" alt="イベント写真_075" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_076.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_076.webp" type="image/webp">
-    <img src="20260412_076.webp" alt="イベント写真_076" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_077.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_077.webp" type="image/webp">
-    <img src="20260412_077.webp" alt="イベント写真_077" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_078.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_078.webp" type="image/webp">
-    <img src="20260412_078.webp" alt="イベント写真_078" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_079.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_079.webp" type="image/webp">
-    <img src="20260412_079.webp" alt="イベント写真_079" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_080.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_080.webp" type="image/webp">
-    <img src="20260412_080.webp" alt="イベント写真_080" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_081.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_081.webp" type="image/webp">
-    <img src="20260412_081.webp" alt="イベント写真_081" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_082.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_082.webp" type="image/webp">
-    <img src="20260412_082.webp" alt="イベント写真_082" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_083.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_083.webp" type="image/webp">
-    <img src="20260412_083.webp" alt="イベント写真_083" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_084.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_084.webp" type="image/webp">
-    <img src="20260412_084.webp" alt="イベント写真_084" class="responsive-media" loading="lazy">
-  </picture>
-</a>
-
-<a href="20260412_085.webp" target="_blank">
-  <picture>
-    <source srcset="20260412_085.webp" type="image/webp">
-    <img src="20260412_085.webp" alt="イベント写真_085" class="responsive-media" loading="lazy">
-  </picture>
-</a>
 
 <a href="20260412_086.webp" target="_blank">
   <picture>
@@ -583,8 +333,6 @@ p.note { display: none; }
     <img src="20260412_107.webp" alt="イベント写真_107" class="responsive-media" loading="lazy">
   </picture>
 </a>
-
-
 
 <a href="20260412_001.webp" target="_blank">
   <picture>
@@ -928,6 +676,260 @@ p.note { display: none; }
     <img src="20260412_049.webp" alt="イベント写真_049" class="responsive-media" loading="lazy">
   </picture>
 </a>
+
+<a href="20260412_050.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_050.webp" type="image/webp">
+    <img src="20260412_050.webp" alt="イベント写真_050" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_051.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_051.webp" type="image/webp">
+    <img src="20260412_051.webp" alt="イベント写真_051" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_052.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_052.webp" type="image/webp">
+    <img src="20260412_052.webp" alt="イベント写真_052" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_053.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_053.webp" type="image/webp">
+    <img src="20260412_053.webp" alt="イベント写真_053" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_054.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_054.webp" type="image/webp">
+    <img src="20260412_054.webp" alt="イベント写真_054" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_055.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_055.webp" type="image/webp">
+    <img src="20260412_055.webp" alt="イベント写真_055" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_056.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_056.webp" type="image/webp">
+    <img src="20260412_056.webp" alt="イベント写真_056" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_057.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_057.webp" type="image/webp">
+    <img src="20260412_057.webp" alt="イベント写真_057" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_058.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_058.webp" type="image/webp">
+    <img src="20260412_058.webp" alt="イベント写真_058" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_059.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_059.webp" type="image/webp">
+    <img src="20260412_059.webp" alt="イベント写真_059" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_060.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_060.webp" type="image/webp">
+    <img src="20260412_060.webp" alt="イベント写真_060" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_061.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_061.webp" type="image/webp">
+    <img src="20260412_061.webp" alt="イベント写真_061" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_062.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_062.webp" type="image/webp">
+    <img src="20260412_062.webp" alt="イベント写真_062" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_063.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_063.webp" type="image/webp">
+    <img src="20260412_063.webp" alt="イベント写真_063" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_064.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_064.webp" type="image/webp">
+    <img src="20260412_064.webp" alt="イベント写真_064" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_065.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_065.webp" type="image/webp">
+    <img src="20260412_065.webp" alt="イベント写真_065" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_066.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_066.webp" type="image/webp">
+    <img src="20260412_066.webp" alt="イベント写真_066" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_067.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_067.webp" type="image/webp">
+    <img src="20260412_067.webp" alt="イベント写真_067" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_068.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_068.webp" type="image/webp">
+    <img src="20260412_068.webp" alt="イベント写真_068" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_069.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_069.webp" type="image/webp">
+    <img src="20260412_069.webp" alt="イベント写真_069" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_070.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_070.webp" type="image/webp">
+    <img src="20260412_070.webp" alt="イベント写真_070" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_071.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_071.webp" type="image/webp">
+    <img src="20260412_071.webp" alt="イベント写真_071" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_072.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_072.webp" type="image/webp">
+    <img src="20260412_072.webp" alt="イベント写真_072" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_073.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_073.webp" type="image/webp">
+    <img src="20260412_073.webp" alt="イベント写真_073" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_074.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_074.webp" type="image/webp">
+    <img src="20260412_074.webp" alt="イベント写真_074" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_075.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_075.webp" type="image/webp">
+    <img src="20260412_075.webp" alt="イベント写真_075" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_076.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_076.webp" type="image/webp">
+    <img src="20260412_076.webp" alt="イベント写真_076" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_077.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_077.webp" type="image/webp">
+    <img src="20260412_077.webp" alt="イベント写真_077" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_078.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_078.webp" type="image/webp">
+    <img src="20260412_078.webp" alt="イベント写真_078" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_079.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_079.webp" type="image/webp">
+    <img src="20260412_079.webp" alt="イベント写真_079" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_080.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_080.webp" type="image/webp">
+    <img src="20260412_080.webp" alt="イベント写真_080" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_081.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_081.webp" type="image/webp">
+    <img src="20260412_081.webp" alt="イベント写真_081" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_082.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_082.webp" type="image/webp">
+    <img src="20260412_082.webp" alt="イベント写真_082" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_083.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_083.webp" type="image/webp">
+    <img src="20260412_083.webp" alt="イベント写真_083" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_084.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_084.webp" type="image/webp">
+    <img src="20260412_084.webp" alt="イベント写真_084" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+<a href="20260412_085.webp" target="_blank">
+  <picture>
+    <source srcset="20260412_085.webp" type="image/webp">
+    <img src="20260412_085.webp" alt="イベント写真_085" class="responsive-media" loading="lazy">
+  </picture>
+</a>
+
+
 
 <h2><span class="yellow">試合終了後の栃木SCサイドの応援団の声援</span></h2>
 <div class="youtube-wrapper">
