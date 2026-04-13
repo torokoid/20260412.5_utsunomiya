@@ -157,7 +157,7 @@ p.note { display: none; }
 
 <!--QRコードの挿入例-->
 <p align="left"> <img src="QR_2026Apr12.5.png" alt="アクセス用QRコード" width="100">QR for Access</p>
-<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~S.Hada</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2026/04/12、カンセキスタジアムで開催された、栃木SC vs ザスパ群馬の試合映像!!!</marquee></span></h1>
@@ -1110,7 +1110,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2026/04/12 S.Hada @utsunomiya</p>
+<p>Copyright 2026/04/12 alis @utsunomiya</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
