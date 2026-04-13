@@ -936,6 +936,12 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IxAdh-VQSc4?si=F-lqmzGm4a9sIvHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
+<br><br>
+
+<h2><span class="yellow">ゴールシーンのダイジェストがアップされてたのでリンク貼ります</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UjMT9ZfJ8JQ?si=iBF6HMh3mlLjtXJX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
 
 <!--
 <h2><span class="yellow">GoProの映像貼ります、安住神社から道の駅みわ〜1/3</span></h2>
